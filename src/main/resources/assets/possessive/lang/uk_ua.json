@@ -1,0 +1,17 @@
+{
+  "key.possessive.possess": "Володіти",
+  "key.possessive.save_pose": "Зберегти позу ArmorStand",
+  "key.possessive.load_pose": "Відновити позу ArmorStand",
+  "category.possessive": "Possessive",
+  "possessive.message.vessel_fail": "Посудина відхиляє вас.",
+  "possessive.message.vessel_success": "Посудина приймає вас.",
+  "possessive.message.vessel_empty": "Ви фрагментовані.",
+  "possessive.message.vessel_broken": "Посудина зламана.",
+  "possessive.message.save_pose": "Позу збережено.",
+  "possessive.message.load_pose": "Позу відновлено.",
+  "armorposer.gui.label.animate_button": "Анімація руху",
+  "armorposer.gui.label.sync_button": "Синхронізувати",
+  "armorposer.gui.tooltip.animate_button": "Анімація рук і ніг під час руху стійки для обладунків, якою володіють.",
+  "armorposer.gui.tooltip.sync_button": "Синхронізує позу стійок для обладунків з камерою.",
+  "modmenu.descriptionTranslation.possessive": "Клієнтське доповлення до мода Armor-Poser, який дозволяє вам володіти стійками для обладунків."
+}
